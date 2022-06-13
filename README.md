@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a target="_blank">
+<!--   <a target="_blank">
     <img src="https://user-images.githubusercontent.com/92996899/173436744-596f95f2-6570-4238-9328-96fbff7cb723.gif" width="44px"  style="max-width:50%;">
-  </a>
+  </a> -->
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <br> 
   I'm Igor Ariza <br>
   Developer Full Stack
